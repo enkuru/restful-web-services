@@ -1,5 +1,6 @@
 package com.enkuru.rest.webservices.restfulwebservices;
 
+import com.enkuru.rest.webservices.restfulwebservices.exception.AppException;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
