@@ -20,6 +20,6 @@ public class FilteringController {
         MappingJacksonValue mapping = new MappingJacksonValue(someBean);
         mapping.setFilters(filters);
 
-        return mapping  ;
+        return mapping;
     }
 }
